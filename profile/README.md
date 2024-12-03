@@ -6,6 +6,7 @@
 
 ---
 
+<h1 align="center">Meet The Team</h1>
 <table align="center">
   <tr>
     <td align="center">
