@@ -6,13 +6,15 @@
 
 ---
 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: right;">
-    <p>PenguScripts</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Penguscript&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="Penguscript's Stats">
-  </div>
-  <div style="text-align: left;">
-    <p>SkapMicke</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=SkapMicke&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="SkapMicke's Stats">
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>PenguScripts</p>
+      <img src="https://github-readme-stats.vercel.app/api?username=Penguscript&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="PenguScripts Stats">
+    </td>
+    <td align="center">
+      <p>SkapMicke</p>
+      <img src="https://github-readme-stats.vercel.app/api?username=SkapMicke&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="SkapMicke Stats">
+    </td>
+  </tr>
+</table>
