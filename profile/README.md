@@ -7,12 +7,12 @@
 ---
 
 <p align="center">
-  <p>
+  <p width="500">
     <p align-text="right">PenguScripts</p>
     <img src="https://github-readme-stats.vercel.app/api?username=Penguscript&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="Penguscript's Stats">
   </p>
-  <p>
-    <p align-text="right">PenguScripts</p>
+  <p width="500">
+    <p align-text="left">SkapMicke</p>
     <img src="https://github-readme-stats.vercel.app/api?username=SkapMicke&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="Penguscript's Stats">
   </p>
   
