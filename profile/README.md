@@ -6,7 +6,7 @@
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center;">
   <div style="text-align: right;">
     <p>PenguScripts</p>
     <img src="https://github-readme-stats.vercel.app/api?username=Penguscript&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="Penguscript's Stats">
